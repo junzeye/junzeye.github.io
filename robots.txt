@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://junzeye.github.io/sitemap.xml

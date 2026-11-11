@@ -1,0 +1,20 @@
+# Private working material: never publish or commit.
+.local/
+.cache/
+work/
+notes/
+AGENTS.md
+MEMORY.md
+.codex/
+.agents/
+photo.jpg
+/content/site.json
+
+# Build output and local tools.
+_site/
+node_modules/
+.DS_Store
+*.log
+.env
+.env.*
+!.env.example

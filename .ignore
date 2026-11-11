@@ -1,0 +1,5 @@
+# workaround for agent search engine visibility
+!.local/
+!.cache/
+!work/
+!notes/
